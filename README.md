@@ -3,9 +3,10 @@
 
 By Doscript
 
+
+# PHP版本的解释：
 原PHP库，详见
 http://sourceforge.net/projects/snoopy/
-# PHP版本的解释：
 Snoopy是一个php类，用来模拟浏览器的功能，可以获取网页内容，发送表单。
 Snoopy的特点：
 1、抓取网页的内容 fetch
