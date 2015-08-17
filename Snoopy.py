@@ -824,7 +824,7 @@ class Snoopy:
 if __name__ == "__main__":
     test = Snoopy()
     test.expandlinks = True
-    test.submit("http://www.mi.com/")
+    test.submit("http://www.douban.com/")
     print test.getResults()
 
 
